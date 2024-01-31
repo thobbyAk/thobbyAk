@@ -20,12 +20,12 @@ I am Tobi a Frontend Engineer
 
 🔭 I’m Currently ⚒ building with:
 
-React.js
-Nuxt.js
-Angular
-Node Js
-Typescript
-TailwindCSS
+React.js,
+Nuxt.js, 
+Angular, 
+Node Js, 
+Typescript, 
+TailwindCSS, 
 Webpack
 
 🌱 I’m currently learning:
