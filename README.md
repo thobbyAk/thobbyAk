@@ -30,9 +30,9 @@ Webpack
 
 🌱 I’m currently learning:
 
-DevOps
-Database Architecture & Design
-Software Architecture
+DevOps\
+Database Architecture & Design\
+Software Architecture\
 
 💬 Ask me about
 optimizing react applications
