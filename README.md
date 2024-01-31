@@ -32,7 +32,7 @@ Webpack
 
 DevOps\
 Database Architecture & Design\
-Software Architecture\
+Software Architecture
 
 💬 Ask me about
 optimizing react applications
