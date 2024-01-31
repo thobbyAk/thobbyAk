@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Tobi a Frontend Engineer
+
+
+🔭 I’m Currently ⚒ building with:
+
+React.js
+Nuxt.js
+Angular
+Node Js
+Typescript
+TailwindCSS
+Webpack
+
+🌱 I’m currently learning:
+
+DevOps
+Database Architecture & Design
+Software Architecture
+
+💬 Ask me about
+optimizing react applications
+
+
+
+
+📫 How to reach me: 
+Send a mail to: akinrinadeoluwatobiloba@gmail.com
+
+Follow on Twitter: @akinrinadetobi
+
+⚡ Fun fact: I am a sucker for sitcoms 😭
