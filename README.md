@@ -39,7 +39,7 @@ optimizing react applications
 
 
 
-
+ I am open to new opportunities. Shoot me a message
 📫 How to reach me: 
 Send a mail to: akinrinadeoluwatobiloba@gmail.com
 
