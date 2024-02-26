@@ -21,7 +21,7 @@ I am Tobi a Frontend Engineer
 🔭 I’m Currently ⚒ building with:
 
 React.js,
-Nuxt.js, 
+Next.js, 
 Angular, 
 Node Js, 
 Typescript, 
