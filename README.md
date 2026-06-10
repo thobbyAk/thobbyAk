@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Tobi a Frontend Engineer
+I am Tobi a Software Engineer
 
 
 🔭 I’m Currently ⚒ building with:
@@ -35,8 +35,6 @@ Database Architecture & Design\
 Software Architecture\
 Web3
 
-💬 Ask me about
-optimizing react applications
 
 
 
